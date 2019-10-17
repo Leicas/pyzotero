@@ -1150,6 +1150,7 @@ class Zotero(object):
                 "collections",
                 "dateModified",
                 "relations",
+                "inPublications",
                 #  attachment items
                 "parentItem",
                 "mtime",
